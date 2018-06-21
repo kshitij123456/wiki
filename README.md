@@ -1,5 +1,7 @@
 # Depecrated Wiki!
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/freeCodeCamp/wiki.svg)](https://greenkeeper.io/)
+
 **This repo serves as an archive for the wiki and a place to report issues for our current wiki located in [our forum!](http://forum.freecodecamp.com/c/wiki)**
 
 >Our open source community's Wiki focuses on answering your questions about learning to code and getting a coding job. We also cover in detail our:
