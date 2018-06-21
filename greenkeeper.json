@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "deprecated wiki/scripts/package.json"
+      ]
+    }
+  }
+}
